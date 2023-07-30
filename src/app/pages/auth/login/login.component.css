@@ -1,0 +1,14 @@
+.login-container{
+  height: 100vh;
+}
+.login-container form{
+  border: 1px solid #e8ebee;
+  padding: 20px;
+  border-radius: 10px;
+}
+label{
+  font-size: 18px;
+}
+input{
+  min-width: 300px;
+}
